@@ -285,9 +285,7 @@ margin: 0 auto;
     justify-content: center;
     margin-bottom: 30px;
 }
-.benefits-list-link:not(:last-child) {
-    margin-right: var(--typical-margin);  
-    }
+
 
 .benefits-top-text:not(:last-child) {
     margin-right: var(--typical-margin);
