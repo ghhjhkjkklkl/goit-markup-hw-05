@@ -466,6 +466,7 @@ background-color: #2F303A;
     display: flex;
     align-items: baseline;
 }
+
 .footer-contact-logo {
     margin-right: 70px;
 }
@@ -485,7 +486,6 @@ text-transform: uppercase;
 color: #FFFFFF;
 padding-top: 12px;
 }
-
 .footer-soc-list {
     display: flex;
     margin-top: 20px;
