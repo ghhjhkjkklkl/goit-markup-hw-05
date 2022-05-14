@@ -462,6 +462,11 @@ padding-top: 60px;
 padding-bottom: 60px;
 background-color: #2F303A;
 }
+.footer .container {
+    display: flex;
+    align-items: baseline;
+}
+
 .footer-contact-logo {
     margin-right: 40px;
 }
@@ -482,10 +487,7 @@ color: #FFFFFF;
 padding-top: 12px;
 }
 
-.footer-soc {
-    display: flex;
-    align-items: baseline;
-}
+
 .footer-soc-list {
     display: flex;
     margin-top: 20px;
